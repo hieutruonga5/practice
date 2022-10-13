@@ -1,0 +1,14 @@
+.link{
+    border: 1px solid #fff;
+    display:  flex;
+    justify-content: flex-end;
+    float: right;
+}
+.login{
+    float: left;
+    margin-left: 20px;
+}
+.menu{
+    background-color: aqua;
+    display: flex;
+}

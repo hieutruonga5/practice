@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.rowOne{
+    background-color: #435d7d;
+    height: 50px;
+}
+.textColorWhite{
+    color: white;
+}
+.rowContent{
+    padding-top: 0.5rem;
+    height: 50px;
+    box-shadow: 0 4px 2px -2px rgba(0,0,0,0.1);
+}
+.rowFooter{
+    height: 50px;
+    padding-top: 0.5rem;
+}
+.borderC{
+    margin-top: 20px;
+    border-radius: 0%;
+    box-shadow: 0px 0px 0px 8px rgba(0,0,0,0.1);       
+}
+.textRight{
+    text-align: right;
+    float: right;
+}

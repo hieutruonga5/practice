@@ -1,0 +1,20 @@
+.main-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.column{
+    background-color: aqua;
+    width: 50%;
+    text-align: center;
+    box-sizing: border-box;
+    padding : 0.3rem 1rem;
+}
+.diff{
+    margin : 0 0.5rem;
+}
+.heading{
+    text-align: center;
+    background-color: green;
+    height: 50px;
+}
